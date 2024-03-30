@@ -2,7 +2,7 @@
 ### How to build and run
 1) clone repo
 2) build project
-for windows:
+</br>for windows:
 ```cmd
 ./gradlew.bat build
 ```
